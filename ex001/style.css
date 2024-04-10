@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    font: normal 16px arial, verdana, serif;
+    text-align: left;
+    background-color: darkgray;
+}
+
+h1{
+    text-align: center;
+    color: #002233;
+}
+
+h2{
+    text-indent: 25px;
+    color: #344248;
+}
+
+p{
+    text-align: justify;
+    text-indent: 25px;
+    color: rgba(43, 42, 42, 0.802);
+}
+
+ul{
+    color: rgba(43, 42, 42, 0.802);
+}
+
+ol{
+    color: rgba(43, 42, 42, 0.802);
+}
